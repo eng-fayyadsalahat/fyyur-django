@@ -9,7 +9,7 @@ This site lets you list new artists and venues, discover them, and list shows wi
 [video from this project](https://www.youtube.com/watch?v=iNxhVst-jwo)
 
 ## Overview
-Django is amazing Franework to build Api endpoint,
+Django is amazing Framework to build API endpoint,
 this project is built by django framework.
 
 ### 1. Backend
